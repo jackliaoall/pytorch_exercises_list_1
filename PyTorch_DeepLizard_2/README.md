@@ -1,3 +1,5 @@
+Ref: https://github.com/YinGuoX/Deep_Learning_Pytorch_WithDeeplizard
+
 # Deep_Learning_Pytorch_WithDeeplizard
 * 主要来自Deeplizard的[Neural Network Programming - Deep Learning with PyTorch](https://deeplizard.com/learn/video/v5cngxo4mIg)
 * 是Deeplizard的中文+Colab版
